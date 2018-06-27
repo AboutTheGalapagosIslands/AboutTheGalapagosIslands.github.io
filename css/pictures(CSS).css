@@ -1,0 +1,33 @@
+.home {
+	float: left;
+	position: sticky;
+	background-color: Sienna;
+	font-family: 'Sigmar One', cursive;
+	top: 0px;
+	color: tan;
+}
+.link {
+	color: tan;
+	position: sticky;
+	text-decoration: none;
+	top: 0px;
+	display: block;
+	padding: 20px;
+	border: 3px solid tan;
+}
+.link:hover {
+	color: Sienna;
+	position: sticky;
+	top: 0px;
+	background-color: Tan;
+	padding: 20px;
+	border: 3px solid Sienna;
+}
+.images {
+	padding: 40px;
+	background-color: khaki;
+	border: 5px solid darkkhaki;
+}
+head {
+	background-color: burlywood;
+}

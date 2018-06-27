@@ -1,0 +1,41 @@
+.home {
+	float: left;
+	background-color: Sienna;
+	font-family: 'Sigmar One', cursive;
+	color: tan;
+}
+.link {
+	color: tan;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+	border: 3px solid tan;
+}
+.link:hover {
+	color: Sienna;
+	background-color: Tan;
+	padding: 20px;
+	border: 3px solid Sienna;
+}
+.articles {
+	color: darkkhaki;
+	background-color: khaki;
+	float: left;
+	padding: 75px;
+	font-family: tahoma;
+	font-size: 20px;
+	text-decoration: none;
+	border: 5px solid darkkhaki;
+	width: 100px;
+}
+.articles:hover {
+	padding: 75px;
+	color: khaki;
+	background-color: darkkhaki;
+	border: 5px solid khaki;
+}
+.title {
+	font-family: 'Sigmar One', cursive;
+	font-size: 45px;
+	text-align: center;
+}
